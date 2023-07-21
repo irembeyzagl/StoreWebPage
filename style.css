@@ -79,7 +79,7 @@ a:hover{
     position: absolute;
     top:50%;
     left:50%;
-    transform: translateX(-50%); /*nesneyi kaydırmak için kullnılırmış*/
+    transform: translateX(-50%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -196,7 +196,7 @@ h4{
 
 .portfolio{
     display: flex;
-    flex-wrap: wrap; /*Varsayılan olarak esnek öğeler tek bir satıra sığmaya çalışırlar.*/
+    flex-wrap: wrap; 
 }
 .portfolio-item{
     width: 25%;
